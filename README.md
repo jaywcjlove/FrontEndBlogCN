@@ -1,4 +1,8 @@
+
+
 # 中文前端开发博客网站列表
+
+本博客网站列表会不断更新维护，如果有推荐的博客
 
 ## 组织团伙
 
@@ -72,3 +76,4 @@
 [葵中剑](http://swordair.com/) | ----
 [css3China](http://www.css3china.com/) | ----
 [brucewar](http://www.brucewar.com/) | ----
+[牧遥](http://muyao.me)| http://muyao.me/feed/atom/
