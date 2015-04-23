@@ -77,3 +77,16 @@
 [css3China](http://www.css3china.com/) | ----
 [brucewar](http://www.brucewar.com/) | ----
 [牧遥](http://muyao.me)| http://muyao.me/feed/atom/
+
+
+
+
+## CDN免费服务
+
+[新浪CDN](http://lib.sinaapp.com/) 
+[360CDN](http://libs.useso.com/)
+[百度CDN](http://cdn.code.baidu.com/) 
+[七牛云存储](http://www.staticfile.org/)
+[又拍云JS库加速服务](http://jscdn.upai.com/)
+[cdnjs.com](https://cdnjs.com/)
+[cdnjs.cn](http://www.cdnjs.cn/)
